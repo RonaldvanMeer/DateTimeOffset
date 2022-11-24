@@ -8,4 +8,4 @@ There is a difference between the parsing and displaying of the DateTimeOffset b
 In .NET6 the datetimeoffset gets the datetimeoffset including offset (based on running machine's timezone) => Ex. Amsterdam Timezone = +0100
 In .NET7 the datetimeoffset gets the UTC offset (+0000)
 
-[Image](Screenshot_ResponseBody_Difference_between_framework_NET6_and_NET7.png)
+![Image](Screenshot_ResponseBody_Difference_between_framework_NET6_and_NET7.png)
